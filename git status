@@ -1,0 +1,149 @@
+[33mcommit 180da24dc66fc108858b2f66e775afc09abe59d5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Marcos Jr <marcos_jrc@hotmail.com>
+Date:   Thu Nov 8 08:28:12 2018 -0300
+
+    Correções UPDATE Categoria Sevice e contrutor de Pagamento
+
+[33mcommit d848ceb2d9e65f23001b49d0b731754d0b122099[m
+Author: Marcos Jr <marcos_jrc@hotmail.com>
+Date:   Wed Nov 7 16:27:38 2018 -0300
+
+    Class Cliente PUT DELETE e GET
+
+[33mcommit 1ff6d10df1620395134b9d8d4734dc88c0a64b71[m
+Author: Marcos Jr <marcos_jrc@hotmail.com>
+Date:   Mon Nov 5 14:09:19 2018 -0300
+
+    Personalizando o retorno da Validação
+
+[33mcommit 4394e56d7ba0fa249dc1bd7ffedf13291926a71a[m
+Author: Marcos Jr <marcos_jrc@hotmail.com>
+Date:   Wed Oct 31 08:49:24 2018 -0400
+
+    Incluso validação no DTO da Categoria
+
+[33mcommit ba9904740605bf286e9c29db49b6f7568c4366a4[m
+Author: Marcos Jr <marcos_jrc@hotmail.com>
+Date:   Tue Oct 30 16:11:31 2018 -0400
+
+    Paginação com parametros opicionais
+
+[33mcommit 618d0746177ada7bdc6550a3df3a6fb6ab264056[m
+Author: Marcos Jr <marcos_jrc@hotmail.com>
+Date:   Tue Oct 30 15:34:07 2018 -0400
+
+    Listando todas as categorias com DTO
+
+[33mcommit 1df160d5764bae09aa4ad6c540fa96b9ea55307f[m
+Author: Marcos Jr <marcos_jrc@hotmail.com>
+Date:   Tue Oct 30 15:10:11 2018 -0400
+
+    Criado Serviço de Delete Categoria
+
+[33mcommit 0cce32c95854b9472f38ed8d7e7e0598d289dce3[m
+Author: Marcos Jr <marcos_jrc@hotmail.com>
+Date:   Tue Oct 30 14:15:40 2018 -0400
+
+    Ajustes endpoint juntamente com PUT na classe categoria UPDATE
+
+[33mcommit f240ed8c8b12d8384146422cb7eb35d70fd59f66[m
+Author: Marcos Jr <marcos_jrc@hotmail.com>
+Date:   Tue Oct 30 12:07:53 2018 -0400
+
+    Incluso Metodos para Alterar Categoria
+
+[33mcommit 8d4babab9b74b330bcdb2688a7c3e45a204f94bf[m
+Author: Marcos Jr <marcos_jrc@hotmail.com>
+Date:   Tue Oct 30 11:08:35 2018 -0400
+
+    Inserindo uma nova Catedori POST
+
+[33mcommit b466ec4b2afab3d725c4f5de23eb32961e124120[m
+Author: Marcos Jr <marcos_jrc@hotmail.com>
+Date:   Tue Oct 30 10:39:51 2018 -0400
+
+    Atualizado com gitIgnore
+
+[33mcommit a3a6f7446a67f8cf196d9def2e3eacfc5831d74b[m
+Author: Marcos Jr <marcos_jrc@hotmail.com>
+Date:   Tue Oct 30 10:30:34 2018 -0400
+
+    Endpoint pedidos/{id} disponibilizado
+
+[33mcommit b940e62f024cc72b0b6b0eb0891eb1855662e72c[m
+Author: Marcos Jr <marcos_jrc@hotmail.com>
+Date:   Tue Oct 30 10:01:24 2018 -0400
+
+    Incluso classe domain ItemPedido com chaves compostas
+
+[33mcommit 442922c9de68e40503a2f9c744a25c2347c6ccb2[m
+Author: Marcos Jr <marcos_jrc@hotmail.com>
+Date:   Fri Oct 26 09:51:15 2018 -0400
+
+    Desenvolvido Pedido/Pagamento/EstadosPagamento class
+
+[33mcommit 53ee41649472152e40fab59d06888f896a162ed8[m
+Author: Marcos Jr <marcos_jrc@hotmail.com>
+Date:   Fri Oct 26 08:20:26 2018 -0400
+
+    Incluso Endpoint cliente
+
+[33mcommit 7dffb082b6429e220b6696711d14664ae403e110[m
+Author: Marcos Jr <marcos_jrc@hotmail.com>
+Date:   Tue Oct 16 10:22:34 2018 -0400
+
+    Inclusão da Endereço, Telefone, e Cliente JPA
+
+[33mcommit 99332febf5f2c132808e7bcbd75a6c566667cf93[m
+Author: Marcos Jr <marcos_jrc@hotmail.com>
+Date:   Mon Oct 8 15:07:10 2018 -0400
+
+    Estado e Cidade
+
+[33mcommit 342ae73b597b08b3e07a61bd01de6c6a9209b49d[m
+Author: Marcos Jr <marcos_jrc@hotmail.com>
+Date:   Mon Oct 8 14:26:13 2018 -0400
+
+    Ajuste no endpoint/categoria/ID
+
+[33mcommit e5d647a8240a1518db7edfe40dd94bc76f465c34[m
+Author: Marcos Jr <marcos_jrc@hotmail.com>
+Date:   Fri Oct 5 16:27:10 2018 -0400
+
+    Produto e associação muitos para muitos com a categoria
+
+[33mcommit ed5d76560e01bde8381f1e86a5053c7f9f12cd3c[m
+Author: Marcos Jr <marcos_jrc@hotmail.com>
+Date:   Fri Oct 5 15:37:16 2018 -0400
+
+    Crindo operação de Instanciação
+
+[33mcommit 190891a3571a603de69b4f4f0c9c0f842b14c9c7[m
+Author: Marcos Jr <marcos_jrc@hotmail.com>
+Date:   Fri Oct 5 15:18:49 2018 -0400
+
+    Criado Serviço e Repository para Categoria
+
+[33mcommit 686f47bd86fa6d8c571edc92b23bfb136635a046[m
+Author: Marcos Jr <marcos_jrc@hotmail.com>
+Date:   Thu Oct 4 14:13:10 2018 -0400
+
+    Acrescentado banco de dados H2 e a criação altomatica da base de dados
+
+[33mcommit 088d5e1c3090aae50087545167043ed987097c79[m
+Author: Marcos Jr <marcos_jrc@hotmail.com>
+Date:   Wed Oct 3 13:19:15 2018 -0400
+
+    Testando a primeira class de domain Categoria
+
+[33mcommit adb6b1eb8cfd01db1bf439679494ed6db20ce40a[m
+Author: Marcos Jr <marcos_jrc@hotmail.com>
+Date:   Wed Oct 3 11:54:46 2018 -0400
+
+    Criado a primeira classe Categoria
+
+[33mcommit 75df9f449dbdf7af421cf49cb030f0e82c049531[m
+Author: Marcos Jr <marcos_jrc@hotmail.com>
+Date:   Wed Oct 3 11:34:34 2018 -0400
+
+    Primeira Versão do Projeto
